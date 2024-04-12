@@ -1,16 +1,3 @@
-import Alert from "src/components/Alert";
-import Footer from "src/components/Footer";
-import Home from "src/components/Home";
-import Nav from "src/components/Nav";
+import Sandbox from "src/components/Sandbox";
 
-// TODO: build your app!
-const App = () => (
-  <>
-    <Nav />
-    <Home />
-    <Alert />
-    <Footer />
-  </>
-);
-
-export default App;
+export default Sandbox;
