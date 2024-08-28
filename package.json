@@ -4,7 +4,7 @@
   "homepage": "https://adamjanicki2.github.io/sandbox",
   "private": true,
   "dependencies": {
-    "@adamjanicki/core-ui": "^1.0.4",
+    "@adamjanicki/ui": "^1.2.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
