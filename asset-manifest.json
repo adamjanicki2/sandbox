@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/sandbox/static/css/main.fd53649e.css",
-    "main.js": "/sandbox/static/js/main.ca53d612.js",
+    "main.css": "/sandbox/static/css/main.e01b587c.css",
+    "main.js": "/sandbox/static/js/main.1130213a.js",
     "index.html": "/sandbox/index.html"
   },
   "entrypoints": [
-    "static/css/main.fd53649e.css",
-    "static/js/main.ca53d612.js"
+    "static/css/main.e01b587c.css",
+    "static/js/main.1130213a.js"
   ]
 }
